@@ -15,7 +15,7 @@ photo   tt1                         = As you exit turn left
 photo   tt2                         = Look out for traffic before turning right
         url                         = Walkin2.jpg 
 
-photo   tt3                         = Stop at the pedistrain light
+photo   tt3                         = Stop at the pedestrian light
         url                         = Walking3.jpg
         
 photo   tt4                         = Press the traffic light and wait for the Green man
@@ -30,13 +30,13 @@ photo   tt6                         = Turn right after you cross the road
 photo   tt7                         = Look out for incoming traffic before crossing
         url                         = Walking7.jpg
         
-photo   tt8                         = Entre the shop
+photo   tt8                         = Enter the shop
         url                         = Walking8.jpg
             
 photo   tt9                         = Choose what you would like to buy
         url                         = Walking9.jpg
         
-photo   tt10                        = Pay for your shoppings at the cashier
+photo   tt10                        = Pay for your shopping at the cashier desk
         url                         = Walking10.jpg
         
 
